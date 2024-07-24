@@ -1,25 +1,27 @@
-# Vesktop
+# Vesktop I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
-Vesktop is a custom Discord desktop app
+Vesktop is a custom I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
 **Main features**:
-- Vencord preinstalled
-- Much more lightweight and faster than the official Discord app
-- Linux Screenshare with sound & wayland
-- Much better privacy, since Discord has no access to your system
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
 **Not yet supported**:
-- Global Keybinds
-- see the [Roadmap](https://github.com/Vencord/Vesktop/issues/324)
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+- I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
-![](https://github.com/Vencord/Vesktop/assets/45497981/8608a899-96a9-4027-9725-2cb02ba189fd)
-![](https://github.com/Vencord/Vesktop/assets/45497981/8701e5de-52c4-4346-a990-719cb971642e)
+I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
+I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
 ## Installing
 
 ### Windows
 
-If you don't know the difference, pick the Installer.
+If you don't know the I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself , pick the I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
 - [Installer](https://vencord.dev/download/vesktop/universal/windows)
 - Portable:
@@ -32,9 +34,9 @@ If you don't know the difference, pick the Installer.
 
 ### Linux
 
-[![Download on Flathub](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)
+[![Download on I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself ](https://dl.flathub.org/assets/badges/flathub-badge-en.svg)](https://flathub.org/apps/dev.vencord.Vesktop)
 
-If you don't know the difference, pick amd64.
+If you don't know the difference, pick I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself 
 
 - amd64 / x86_64
   - [AppImage](https://vencord.dev/download/vesktop/amd64/appimage)
@@ -49,15 +51,15 @@ If you don't know the difference, pick amd64.
 
 #### Community packages
 
-Below you can find unofficial packages created by the community. They are not officially supported by us, so before reporting issues, please first confirm the issue also happens on official builds. When in doubt, consult with their packager first. The flatpak and AppImage should work on any distro that [supports them](https://flatpak.org/setup/), so I recommend you just use those instead!
+Below you can find unofficial packages created by the I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself . They are not officially supported by us, so before reporting issues, please first confirm the issue also happens on official builds. When in doubt, consult with their packager first. The flatpak and AppImage should work on any distro that [I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself  them](https://flatpak.org/setup/), so I recommend you just use those instead!
 
 - Arch Linux: [Vesktop on the Arch user repository](https://aur.archlinux.org/packages?K=vesktop)
 - NixOS: https://wiki.nixos.org/wiki/Discord#Vesktop
-- Windows - Scoop: https://scoop.sh/#/apps?q=Vesktop
+- Windows - Scoop: I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself ://scoop.sh/#/apps?q=Vesktop
 
 ## Building from Source
 
-Packaging will create builds in the dist/ folder
+Packaging will create builds in the I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself I hate myself I Hate myself / folder
 
 ```sh
 git clone https://github.com/Vencord/Vesktop
